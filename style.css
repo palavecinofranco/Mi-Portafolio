@@ -111,7 +111,6 @@ section{
 
 .seccion-texto{
     font-size: 1.2rem;
-
 }
 
 
@@ -120,7 +119,7 @@ section{
 }
 
 .proyectos{
-    padding: 40px;
+    padding-right: 40px;
     min-height: 500px;
 }
 
