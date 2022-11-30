@@ -316,3 +316,9 @@ footer{
         visibility: visible;
     }
 }
+
+@media (max-width: 615px){
+    .carousel-item{
+        height: 800px;
+    }
+}
