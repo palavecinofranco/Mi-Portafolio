@@ -163,6 +163,7 @@ section{
 }
 
 .texto-proyecto{
+    margin: 0 auto;
     margin-bottom: 50px;
 }
 
@@ -320,5 +321,8 @@ footer{
 @media (max-width: 615px){
     .carousel-item{
         height: 800px;
+    }
+    .texto-proyecto{
+        font-size: 24px;
     }
 }
