@@ -503,6 +503,14 @@ footer{
         vertical-align: middle;
         visibility: visible;
     }
+
+    .msg{
+        font-size: 2rem;
+    }
+
+    .msg-2{
+        font-size: 1.5rem;
+    }
 }
 
 @media (max-width: 615px){
@@ -511,5 +519,21 @@ footer{
     }
     .texto-proyecto{
         font-size: 24px;
+    }
+
+    .contenedor-logo-img{
+        animation-name: none;
+    }
+
+    .logo-mio{
+        width: 300px;
+    }
+
+    .msg{
+        font-size: 1.5rem;
+    }
+
+    .msg-2{
+        font-size: 1.2rem;
     }
 }
