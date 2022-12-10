@@ -481,6 +481,13 @@ footer{
     }
   }
 
+@media (max-width: 1030px){
+    .logo-holder{
+        display: none;
+    }
+}
+
+
 @media (max-width: 767px) {
     .contenedor-texto{
         position: absolute;
